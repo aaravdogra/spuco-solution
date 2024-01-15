@@ -1,2 +1,2 @@
 # spuco-solution
-Implementing the GEORGE method to correct spurious correlations in the SpuCoMNIST dataset.
+Implementing group-balancing to correct spurious correlations in the SpuCoMNIST dataset.
